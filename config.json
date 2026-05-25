@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersalculate",
+        "uuid": 628292,
+        "checksum": "m009n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
